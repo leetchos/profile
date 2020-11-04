@@ -1,0 +1,75 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+body {
+  background-color: White;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.btn-blue {
+    background-color: #6B72E1;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    }
+
+.card-white {
+  background-color: #f0f8ff;
+  padding: 40px;
+  box-shadow: 0px 7px 14px 11px #A9A9A9;;
+  border-radius: 4px;
+  margin: 30px ;
+  border: 1px solid lightgrey;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+div {
+  display: block;
+}
+
+h1 {
+  color: Black;
+  font-family: "Henny Penny", cursive;
+}
+
+p {
+  color: Black;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: Red;
+}
+
+.profile {
+  width: 150px;
+  border-radius: 50%;
+}
+.cat {
+  width: 300px;
+}
+
